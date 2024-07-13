@@ -3,7 +3,7 @@ layout: default
 permalink: /services/
 ---
 ## What is Additive Manufacturing
-
+Aditif Manufacturing (AM), didefinisikan sebagai proses di mana data desain 3D digital digunakan untuk membangun komponen berlapis-lapis dengan menambah material, kebalikan dari manufaktur subtraktif atau formatif. Teknologi terkini ini menawarkan kemampuan untuk membuat prototipe proyek, serta menyesuaikan produk dengan lebih mudah diakses dan efisien.
 
 ## Why use Additive Manufacturing
 
