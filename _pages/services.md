@@ -2,6 +2,25 @@
 layout: default
 permalink: /services/
 ---
+## What is Additive Manufacturing
+
+
+## Why use Additive Manufacturing
+
+### Cost Efficiency
+Manufaktur aditif membangun komponen lapis demi lapis, hanya menggunakan bahan yang diperlukan untuk produk akhir. Hal ini secara signifikan mengurangi pemborosan material dibandingkan dengan metode manufaktur subtraktif tradisional. Dengan demikian biaya produksi juga menjadi lebih rendah.
+
+### Speed and Agility
+Additive Manufacturing dapat menghasilkan prototipe dengan cepat untuk menguji bentuk, kesesuaian, dan fungsi, memungkinkan iterasi dan peningkatan desain produk yang lebih cepat, maka sangat mendukung inovasi lokal dan ekosistem R&D.
+
+### Customization
+Additive Manufacturing memungkinkan terciptanya geometri kompleks dan desain rumit yang sulit dicapai dengan metode manufaktur tradisional. Selain itu, Additive Manufacturing sangat berguna untuk manufaktur dalam volume rendah, membuat suku cadang dan penyesuaian produk.
+
+### Sustainability
+Additive Manufacturing dapat mengurangi limbah dan pemborosan material, sehingga sangat berkontribusi pada praktik manufaktur yang lebih berkelanjutan.
+
+### Competitive Advantage
+Menjadi yang terdepan dalam persaingan dengan mengadopsi teknologi manufaktur terkini yang mendorong inovasi dan efisiensi.
 
 ## Full length services page
 
