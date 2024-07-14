@@ -2,38 +2,37 @@
 layout: default
 permalink: /services/
 ---
-## What is Additive Manufacturing
-Aditif Manufacturing (AM), didefinisikan sebagai proses di mana data desain 3D digital digunakan untuk membangun komponen berlapis-lapis dengan menambah material, kebalikan dari manufaktur subtraktif atau formatif. Teknologi terkini ini menawarkan kemampuan untuk membuat prototipe proyek, serta menyesuaikan produk dengan lebih mudah diakses dan efisien.
+## Our Services
 
-## Why use Additive Manufacturing
+###1. Strategic Consulting
+Kami memberikan panduan ahli untuk membantu perusahaan anda mengintegrasikan dan mengoptimalkan AM dalam operasi Anda
 
-### Cost Efficiency
-Manufaktur aditif membangun komponen lapis demi lapis, hanya menggunakan bahan yang diperlukan untuk produk akhir. Hal ini secara signifikan mengurangi pemborosan material dibandingkan dengan metode manufaktur subtraktif tradisional. Dengan demikian biaya produksi juga menjadi lebih rendah.
+###2. Use Case Development
+Identifikasi dan pengembangkan aplikasi spesifik AM yang disesuaikan dengan kebutuhan industri Anda, mendorong inovasi dan meningkatkan proses.
 
-### Speed and Agility
-Additive Manufacturing dapat menghasilkan prototipe dengan cepat untuk menguji bentuk, kesesuaian, dan fungsi, memungkinkan iterasi dan peningkatan desain produk yang lebih cepat, maka sangat mendukung inovasi lokal dan ekosistem R&D.
+###3. Training and Workshops:
+Berdayakan tim Anda dengan program pelatihan dan lokakarya komprehensif yang mencakup teknologi, teknik, dan praktik terbaik 3D Printing terkini.
 
-### Customization
-Additive Manufacturing memungkinkan terciptanya geometri kompleks dan desain rumit yang sulit dicapai dengan metode manufaktur tradisional. Selain itu, Additive Manufacturing sangat berguna untuk manufaktur dalam volume rendah, membuat suku cadang dan penyesuaian produk.
+###4. Design and Reverse Engineering:
+Kami menawarkan layanan 3D Design dan reverse engineering untuk membuat ulang komponen yang ada atau menyempurnakan desain yang lama dengan akurat.
 
-### Sustainability
-Additive Manufacturing dapat mengurangi limbah dan pemborosan material, sehingga sangat berkontribusi pada praktik manufaktur yang lebih berkelanjutan.
+###5. Prototyping
+Dari konsep hingga kreasi, layanan desain dan 3D Printing kami akan mewujudkan ide anda dengan presisi dan efisiensi. 
 
-### Competitive Advantage
-Menjadi yang terdepan dalam persaingan dengan mengadopsi teknologi manufaktur terkini yang mendorong inovasi dan efisiensi.
+###6. Parts on demand and Low Volume Production
+Dapatkan suku cadang berkualitas tinggi tepat saat anda membutuhkannya dengan layanan on-demand manufacturing dari kami, ideal untuk produksi bervolume rendah dan komponen yang disesuaikan.
 
-## Full length services page
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec molestie eu turpis eu semper. Aliquam sed tempor ex. Curabitur pretium auctor tellus. Nulla vel nisl vulputate, ornare sem convallis, mollis eros. Pellentesque in lacus eros. Aliquam non turpis eu ex auctor varius eget vel orci. Aliquam pharetra leo sed risus mattis, at aliquet diam sagittis. Curabitur finibus malesuada ligula, sit amet fermentum ligula cursus nec. Praesent elit dolor, porttitor sit amet egestas a, aliquet sit amet velit. Cras ac dictum urna, at dictum nibh. Etiam ornare eleifend ultrices. Sed non condimentum urna. Sed lacinia ante quis nisl ultrices, nec tempor quam interdum. Duis sagittis fermentum nunc in tincidunt. Maecenas fringilla cursus laoreet.
+##Why choose Additive Indonesia
 
-Etiam convallis purus a ornare facilisis. Sed sodales accumsan mauris, ut congue sapien pretium id. Duis viverra consectetur posuere. Integer feugiat nulla ac elit pretium gravida. Donec laoreet porttitor dolor nec accumsan. Maecenas fringilla felis sodales nisl mattis, id congue sem volutpat. Nam ut dolor a ante iaculis porttitor ultricies et nisl. Maecenas sed sapien ac turpis aliquam elementum. Aliquam at eleifend metus. Curabitur ut fermentum turpis. Nulla tempus rutrum purus, non bibendum ante vulputate at. Nulla vel viverra nulla. Duis libero risus, ultricies non rhoncus at, tristique id velit. Duis ac ex tortor. Curabitur dui metus, ornare eu ornare vel, scelerisque in augue. Aliquam eget consectetur justo, ac hendrerit lectus.
+###Expertise
+Tim kami terdiri dari ahli industri dan profesional terlatih MIT.
 
-Fusce ullamcorper nisl eros. Mauris sed urna mattis, mattis velit non, dignissim massa. Aenean maximus ligula sed diam tincidunt, sed tempor metus finibus. Morbi ut nisi id sapien viverra malesuada ut ut dui. Mauris ut mollis magna, viverra fermentum metus. Proin ac ipsum quis mauris interdum sagittis. Fusce id massa eu dolor pharetra efficitur a sed nisi. Quisque quis gravida purus. Morbi facilisis sapien et tellus convallis, eu mattis nisl volutpat. Aliquam quis vehicula leo. Phasellus posuere dui orci, eu luctus neque sollicitudin sit amet. Donec nunc massa, posuere quis leo eget, porta dapibus velit. Maecenas quis pulvinar orci.
+###Material Efficiency and Sustainability
+Kami berkomitmen terhadap tanggung jawab lingkungan, dan kami yakin teknologi 3D Printing dapat mengurangi pemborosan material, berkontribusi pada sustainable production processes, yang bermanfaat bagi lingkungan.
 
-Nunc varius sit amet ante id laoreet. Integer sapien nisl, accumsan dictum tempor eu, tempus at mi. Duis sit amet tellus elit. Aliquam tincidunt tellus eros, sed placerat ligula aliquam a. Morbi dapibus congue mauris, id dapibus lectus hendrerit at. Aliquam et porttitor metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent imperdiet elit eu libero facilisis, sit amet vulputate leo rhoncus.
+###Innovative
+Kami terus mengeksplorasi dan mengintegrasikan tren terkini dalam teknologi 3D Printing untuk menghadirkan produk dan layanan unggul dengan tetap menjaga komitmen kami terhadap keberlanjutan.
 
-Suspendisse accumsan ipsum nunc, sed fringilla metus hendrerit nec. Nulla gravida ante ac laoreet fermentum. Nunc aliquam nibh diam, id elementum urna convallis et. Duis mattis lacinia pharetra. Mauris ac lorem venenatis, ultricies nisl a, efficitur mauris. Etiam lacinia fermentum lectus, ac blandit nisi bibendum quis. Curabitur sit amet pharetra elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus ut tincidunt nulla. Vivamus fermentum sapien semper ex convallis hendrerit. Sed id eleifend justo.
-
-Nunc quam sem, condimentum ut nibh vitae, facilisis laoreet ligula. Vestibulum ultrices sapien at nulla ullamcorper eleifend. Duis quam elit, pulvinar et aliquam a, porttitor sit amet sem. Suspendisse potenti. Maecenas et mollis enim. Morbi vel scelerisque felis. Maecenas ultrices sem eget neque suscipit, eget consequat magna efficitur.
-
-Vestibulum suscipit diam tortor, ut semper dolor elementum pulvinar. Curabitur vitae lacus ut augue viverra venenatis non non libero. Nullam vitae pharetra felis. Integer a turpis non libero posuere dictum eget id massa. Nulla ac lorem dictum, facilisis lectus a, pellentesque nisi. Phasellus sapien enim, rhoncus et mattis eu, facilisis sed est. Maecenas faucibus ultrices varius.
+###Collaboration and Support
+Kami percaya pada kekuatan kemitraan. Tim kami akan bekerja sama dengan Anda untuk memahami visi Anda, memberikan panduan, dan memastikan keberhasilan proyek Anda dari awal hingga akhir.
