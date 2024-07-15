@@ -10,10 +10,10 @@ Kami memberikan panduan ahli untuk membantu perusahaan anda mengintegrasikan dan
 ### 2. Use Case Development
 Identifikasi dan pengembangkan aplikasi spesifik AM yang disesuaikan dengan kebutuhan industri Anda, mendorong inovasi dan meningkatkan proses.
 
-### 3. Training and Workshops:
+### 3. Training and Workshops
 Berdayakan tim Anda dengan program pelatihan dan lokakarya komprehensif yang mencakup teknologi, teknik, dan praktik terbaik 3D Printing terkini.
 
-### 4. Design and Reverse Engineering:
+### 4. Design and Reverse Engineering
 Kami menawarkan layanan 3D Design dan reverse engineering untuk membuat ulang komponen yang ada atau menyempurnakan desain yang lama dengan akurat.
 
 ### 5. Prototyping
@@ -21,18 +21,3 @@ Dari konsep hingga kreasi, layanan desain dan 3D Printing kami akan mewujudkan i
 
 ### 6. Parts on demand and Low Volume Production
 Dapatkan suku cadang berkualitas tinggi tepat saat anda membutuhkannya dengan layanan on-demand manufacturing dari kami, ideal untuk produksi bervolume rendah dan komponen yang disesuaikan.
-
-
-## Why choose Additive Indonesia
-
-### Expertise
-Tim kami terdiri dari ahli industri dan profesional terlatih MIT.
-
-### Material Efficiency and Sustainability
-Kami berkomitmen terhadap tanggung jawab lingkungan, dan kami yakin teknologi 3D Printing dapat mengurangi pemborosan material, berkontribusi pada sustainable production processes, yang bermanfaat bagi lingkungan.
-
-### Innovative
-Kami terus mengeksplorasi dan mengintegrasikan tren terkini dalam teknologi 3D Printing untuk menghadirkan produk dan layanan unggul dengan tetap menjaga komitmen kami terhadap keberlanjutan.
-
-### Collaboration and Support
-Kami percaya pada kekuatan kemitraan. Tim kami akan bekerja sama dengan Anda untuk memahami visi Anda, memberikan panduan, dan memastikan keberhasilan proyek Anda dari awal hingga akhir.
